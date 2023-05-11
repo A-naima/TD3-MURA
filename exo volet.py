@@ -4,7 +4,7 @@ l =9
 
 
 def d(n):
-    return(d0+2*1*n)
+    return(d0+2*l*n)
 
 d0= float(input("Entrez le diamètre de l'axe en mm:"))
 n=int(input("Entre nombre de tours n:"))
